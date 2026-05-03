@@ -1,0 +1,5 @@
+anthropic
+numpy==2.0.0
+openai
+together
+httpx==0.27

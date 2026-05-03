@@ -1,0 +1,346 @@
+{
+  "k": 10,
+  "embed_model": "sentence-transformers/all-MiniLM-L6-v2",
+  "clusters": {
+    "0": [
+      {
+        "persona_id": "Abraham Lincoln",
+        "description": "Abraham Lincoln"
+      },
+      {
+        "persona_id": "Colonel Nathan R. Jessep",
+        "description": "Colonel Nathan R. Jessep"
+      },
+      {
+        "persona_id": "James Bond",
+        "description": "James Bond"
+      },
+      {
+        "persona_id": "James Brown",
+        "description": "James Brown"
+      },
+      {
+        "persona_id": "James Carter",
+        "description": "James Carter"
+      },
+      {
+        "persona_id": "Jim Morrison",
+        "description": "Jim Morrison"
+      },
+      {
+        "persona_id": "John Dillinger",
+        "description": "John Dillinger"
+      },
+      {
+        "persona_id": "Jordan Belfort",
+        "description": "Jordan Belfort"
+      },
+      {
+        "persona_id": "Logan",
+        "description": "Logan"
+      },
+      {
+        "persona_id": "Lucifer Morningstar",
+        "description": "Lucifer Morningstar"
+      },
+      {
+        "persona_id": "Malcolm X",
+        "description": "Malcolm X"
+      },
+      {
+        "persona_id": "Michael Scott",
+        "description": "Michael Scott"
+      },
+      {
+        "persona_id": "Queen Elizabeth I",
+        "description": "Queen Elizabeth I"
+      },
+      {
+        "persona_id": "Stanley Ipkiss",
+        "description": "Stanley Ipkiss"
+      },
+      {
+        "persona_id": "Tyler Hawkins",
+        "description": "Tyler Hawkins"
+      },
+      {
+        "persona_id": "Wade Wilson",
+        "description": "Wade Wilson"
+      }
+    ],
+    "8": [
+      {
+        "persona_id": "Alvy Singer",
+        "description": "Alvy Singer"
+      },
+      {
+        "persona_id": "Angel",
+        "description": "Angel"
+      },
+      {
+        "persona_id": "Antonio Salieri",
+        "description": "Antonio Salieri"
+      },
+      {
+        "persona_id": "David Aames",
+        "description": "David Aames"
+      },
+      {
+        "persona_id": "Paul Conroy",
+        "description": "Paul Conroy"
+      },
+      {
+        "persona_id": "Robert Angier",
+        "description": "Robert Angier"
+      },
+      {
+        "persona_id": "The Dude",
+        "description": "The Dude"
+      }
+    ],
+    "7": [
+      {
+        "persona_id": "Benjamin Button",
+        "description": "Benjamin Button"
+      },
+      {
+        "persona_id": "Bruno Antony",
+        "description": "Bruno Antony"
+      },
+      {
+        "persona_id": "Jeff Spicoli",
+        "description": "Jeff Spicoli"
+      },
+      {
+        "persona_id": "Leonard Shelby",
+        "description": "Leonard Shelby"
+      },
+      {
+        "persona_id": "Murphy MacManus",
+        "description": "Murphy MacManus"
+      },
+      {
+        "persona_id": "Sheldon Cooper",
+        "description": "Sheldon Cooper"
+      },
+      {
+        "persona_id": "Sonny",
+        "description": "Sonny"
+      },
+      {
+        "persona_id": "Travis Bickle",
+        "description": "Travis Bickle"
+      }
+    ],
+    "9": [
+      {
+        "persona_id": "Caden Cotard",
+        "description": "Caden Cotard"
+      },
+      {
+        "persona_id": "Gaston",
+        "description": "Gaston"
+      },
+      {
+        "persona_id": "Jack",
+        "description": "Jack"
+      },
+      {
+        "persona_id": "Jack Torrance",
+        "description": "Jack Torrance"
+      },
+      {
+        "persona_id": "John Coffey",
+        "description": "John Coffey"
+      },
+      {
+        "persona_id": "Pat Solitano",
+        "description": "Pat Solitano"
+      },
+      {
+        "persona_id": "Shrek",
+        "description": "Shrek"
+      },
+      {
+        "persona_id": "Truman Capote",
+        "description": "Truman Capote"
+      }
+    ],
+    "4": [
+      {
+        "persona_id": "Caesar",
+        "description": "Caesar"
+      },
+      {
+        "persona_id": "Doctor Who",
+        "description": "Doctor Who"
+      },
+      {
+        "persona_id": "Dr. Frank-N-Furter",
+        "description": "Dr. Frank-N-Furter"
+      },
+      {
+        "persona_id": "Dr. Hannibal Lecter",
+        "description": "Dr. Hannibal Lecter"
+      },
+      {
+        "persona_id": "Freddy Krueger",
+        "description": "Freddy Krueger"
+      },
+      {
+        "persona_id": "Harvey Milk",
+        "description": "Harvey Milk"
+      },
+      {
+        "persona_id": "Judge Dredd",
+        "description": "Judge Dredd"
+      },
+      {
+        "persona_id": "Klaus Mikaelson",
+        "description": "Klaus Mikaelson"
+      },
+      {
+        "persona_id": "Seth",
+        "description": "Seth"
+      },
+      {
+        "persona_id": "Sherlock Holmes",
+        "description": "Sherlock Holmes"
+      }
+    ],
+    "5": [
+      {
+        "persona_id": "Coach Eric Taylor",
+        "description": "Coach Eric Taylor"
+      },
+      {
+        "persona_id": "Colonel Hans Landa",
+        "description": "Colonel Hans Landa"
+      },
+      {
+        "persona_id": "Fletcher Reede",
+        "description": "Fletcher Reede"
+      },
+      {
+        "persona_id": "Frank T.J. Mackey",
+        "description": "Frank T.J. Mackey"
+      },
+      {
+        "persona_id": "Jackie Moon",
+        "description": "Jackie Moon"
+      },
+      {
+        "persona_id": "Jigsaw",
+        "description": "Jigsaw"
+      },
+      {
+        "persona_id": "Leroy Jethro Gibbs",
+        "description": "Leroy Jethro Gibbs"
+      },
+      {
+        "persona_id": "Theodore Twombly",
+        "description": "Theodore Twombly"
+      }
+    ],
+    "3": [
+      {
+        "persona_id": "D_Artagnan",
+        "description": "D_Artagnan"
+      },
+      {
+        "persona_id": "Fred Flintstone",
+        "description": "Fred Flintstone"
+      },
+      {
+        "persona_id": "Gregory House",
+        "description": "Gregory House"
+      },
+      {
+        "persona_id": "Mark Renton",
+        "description": "Mark Renton"
+      },
+      {
+        "persona_id": "Oliver Queen",
+        "description": "Oliver Queen"
+      },
+      {
+        "persona_id": "Paul Vitti",
+        "description": "Paul Vitti"
+      },
+      {
+        "persona_id": "Peter Parker",
+        "description": "Peter Parker"
+      },
+      {
+        "persona_id": "Queen Catherine",
+        "description": "Queen Catherine"
+      },
+      {
+        "persona_id": "Stephen Hawking",
+        "description": "Stephen Hawking"
+      },
+      {
+        "persona_id": "Thor",
+        "description": "Thor"
+      },
+      {
+        "persona_id": "Willie Soke",
+        "description": "Willie Soke"
+      }
+    ],
+    "6": [
+      {
+        "persona_id": "HAL 9000",
+        "description": "HAL 9000"
+      }
+    ],
+    "1": [
+      {
+        "persona_id": "Judy Hoops",
+        "description": "Judy Hoops"
+      },
+      {
+        "persona_id": "Lyn Cassady",
+        "description": "Lyn Cassady"
+      },
+      {
+        "persona_id": "Mary Sibley",
+        "description": "Mary Sibley"
+      },
+      {
+        "persona_id": "Rachel Lang",
+        "description": "Rachel Lang"
+      },
+      {
+        "persona_id": "Twilight Sparkle",
+        "description": "Twilight Sparkle"
+      },
+      {
+        "persona_id": "Violet Weston",
+        "description": "Violet Weston"
+      }
+    ],
+    "2": [
+      {
+        "persona_id": "Juno MacGuff",
+        "description": "Juno MacGuff"
+      },
+      {
+        "persona_id": "Mater",
+        "description": "Mater"
+      },
+      {
+        "persona_id": "Po",
+        "description": "Po"
+      },
+      {
+        "persona_id": "Rorschach",
+        "description": "Rorschach"
+      },
+      {
+        "persona_id": "Stifler",
+        "description": "Stifler"
+      }
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+accelerate
+bitsandbytes
+datasets
+numpy
+peft
+scikit-learn
+scipy
+sentence-transformers
+tensorboard
+tqdm
+transformers<5
+trl
