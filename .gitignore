@@ -17,6 +17,8 @@ new_folder/
 *.zip
 *.safetensors
 *.bin
+!adapters/**/*.safetensors
+!adapters/**/training_args.bin
 
 **/outputs/
 **/logs/
