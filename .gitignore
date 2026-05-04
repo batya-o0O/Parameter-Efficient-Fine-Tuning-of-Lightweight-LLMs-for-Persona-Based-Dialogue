@@ -12,6 +12,8 @@ logs/
 files/
 kaggle_folder/
 new_folder/
+mpi_ipip_eval_project/data/
+mpi_ipip_eval_project/example_outputs/
 
 *.pdf
 *.zip

@@ -11,6 +11,7 @@ This repository collects the main code used across the project:
 - RoleBench evaluation scripts
 - CharacterBench evaluation scripts
 - PersonaGym generation and evaluation scripts
+- MPI-IPIP personality evaluation scripts
 - Kaggle notebooks used for generation and clustering experiments
 
 It also includes the final released adapter artifacts used in the main experiments.
@@ -27,6 +28,8 @@ It also includes the final released adapter artifacts used in the main experimen
   CharacterBench-related scripts and prompt construction utilities used in this project.
 - `PersonaGym-master/PersonaGym-master/`
   Local PersonaGym evaluation code, prompts, and rubrics used by the thesis workflow.
+- `mpi_ipip_eval_project/`
+  MPI-IPIP personality evaluation utilities, configs, and run scripts.
 - `adapters/`
   Final released LoRA adapters.
 
@@ -93,6 +96,19 @@ Key scripts:
 - `code/personagym_full_eval.py`
 
 The local PersonaGym evaluator in this repo is configured to use `gpt-5-nano` by default unless overridden with environment variables.
+
+### 5. MPI-IPIP personality evaluation
+
+Key files:
+
+- `mpi_ipip_eval_project/src/mpi_eval.py`
+- `mpi_ipip_eval_project/src/compare_mpi_results.py`
+- `mpi_ipip_eval_project/scripts/run_base_and_lora.sh`
+- `mpi_ipip_eval_project/scripts/run_controllability.sh`
+- `mpi_ipip_eval_project/scripts/run_demo_outputs.sh`
+- `mpi_ipip_eval_project/configs/prompts.json`
+
+This package is included as code and runnable scripts only. Example outputs and local data dumps are intentionally excluded from the repository.
 
 ## Notes On Excluded Files
 
