@@ -29,7 +29,7 @@ It also includes the final released adapter artifacts used in the main experimen
 - `PersonaGym-master/PersonaGym-master/`
   Local PersonaGym evaluation code, prompts, and rubrics used by the thesis workflow.
 - `mpi_ipip_eval_project/`
-  MPI-IPIP personality evaluation utilities, configs, and run scripts.
+  MPI-IPIP personality evaluation utilities and run scripts.
 - `adapters/`
   Final released LoRA adapters.
 
@@ -106,9 +106,8 @@ Key files:
 - `mpi_ipip_eval_project/scripts/run_base_and_lora.sh`
 - `mpi_ipip_eval_project/scripts/run_controllability.sh`
 - `mpi_ipip_eval_project/scripts/run_demo_outputs.sh`
-- `mpi_ipip_eval_project/configs/prompts.json`
 
-This package is included as code and runnable scripts only. Example outputs and local data dumps are intentionally excluded from the repository.
+This package is included as code and runnable scripts only. Config files, example outputs, and local data dumps are intentionally excluded from the repository.
 
 ## Notes On Excluded Files
 

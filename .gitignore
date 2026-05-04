@@ -14,6 +14,7 @@ kaggle_folder/
 new_folder/
 mpi_ipip_eval_project/data/
 mpi_ipip_eval_project/example_outputs/
+mpi_ipip_eval_project/configs/
 
 *.pdf
 *.zip
